@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react_multistep_form/static/css/main.3f800aad.chunk.css",
+    "main.js": "/react_multistep_form/static/js/main.cd7f7c4a.chunk.js",
+    "main.js.map": "/react_multistep_form/static/js/main.cd7f7c4a.chunk.js.map",
+    "runtime-main.js": "/react_multistep_form/static/js/runtime-main.a9766b6c.js",
+    "runtime-main.js.map": "/react_multistep_form/static/js/runtime-main.a9766b6c.js.map",
+    "static/js/2.d9ad9d44.chunk.js": "/react_multistep_form/static/js/2.d9ad9d44.chunk.js",
+    "static/js/2.d9ad9d44.chunk.js.map": "/react_multistep_form/static/js/2.d9ad9d44.chunk.js.map",
+    "index.html": "/react_multistep_form/index.html",
+    "precache-manifest.1a6ecc3b99b78ebb9a7fbdcdd5b341f9.js": "/react_multistep_form/precache-manifest.1a6ecc3b99b78ebb9a7fbdcdd5b341f9.js",
+    "service-worker.js": "/react_multistep_form/service-worker.js",
+    "static/css/main.3f800aad.chunk.css.map": "/react_multistep_form/static/css/main.3f800aad.chunk.css.map",
+    "static/js/2.d9ad9d44.chunk.js.LICENSE.txt": "/react_multistep_form/static/js/2.d9ad9d44.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a9766b6c.js",
+    "static/js/2.d9ad9d44.chunk.js",
+    "static/css/main.3f800aad.chunk.css",
+    "static/js/main.cd7f7c4a.chunk.js"
+  ]
+}
